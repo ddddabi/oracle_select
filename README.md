@@ -3,7 +3,9 @@
 Oracle SQL의 SELECT 문법 연습 문제와 정답을 담고 있습니다.  
 
 ---
-## 팀원 소개
+<br>
+
+## 👤 팀원 소개
 <table>
   <tbody>
     <tr>
@@ -14,6 +16,15 @@ Oracle SQL의 SELECT 문법 연습 문제와 정답을 담고 있습니다.
   </tbody>
 </table>
 
+<br>
+
+## ⚒️ Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
+</div>
+
+<br>
 
 ## 📂 파일 구성
 
@@ -21,6 +32,8 @@ Oracle SQL의 SELECT 문법 연습 문제와 정답을 담고 있습니다.
 |------------------------|----------------------------------------|
 | `oracle_select_question.sql` | ❓ 연습 문제 (주석 형태로 문제 제시) |
 | `oracle_select_answer.sql`   | ✅ 문제별 정답 SQL문 제공             |
+
+<br>
 
 ---
 
@@ -32,3 +45,10 @@ Oracle SQL의 SELECT 문법 연습 문제와 정답을 담고 있습니다.
 4. 부서번호가 20인 사원들 중 해당 부서 평균 급여보다 높은 급여를 받는 사원 조회  
 
 > 💡 사용된 테이블: `EMP` (예제용 사원 테이블)
+
+<br>
+
+## 🔗 정답
+
+정답은 다양할 수 있지만, 저희 팀이 작성한 예시 답안이 궁금하시다면 `oracle_select_answer.sql` 파일을 확인해 보세요!
+
