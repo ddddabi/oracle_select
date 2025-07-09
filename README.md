@@ -3,6 +3,17 @@
 Oracle SQL의 SELECT 문법 연습 문제와 정답을 담고 있습니다.  
 
 ---
+## 팀원 소개
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/ddddabi"><img src="https://github.com/ddddabi.png" width="100px;" alt=""/><br /><sub><b>@ddddabi</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kkangsol"><img src="https://github.com/kkangsol.png" width="100px;" alt=""/><br /><sub><b>@kkangsol</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Jsumin07"><img src="https://github.com/Jsumin07.png" width="100px;" alt=""/><br /><sub><b>@Jsumin07</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/GodNowoon"><img src="https://github.com/GodNowoon.png" width="100px;" alt=""/><br /><sub><b>@GodNowoon</b></sub></a><br /></td>
+  </tbody>
+</table>
+
 
 ## 📂 파일 구성
 
